@@ -12,6 +12,7 @@ DRIVER_DOCS = [
     "memory",
     "neuroglancer_uint64_sharded",
     "ocdbt",
+    "s3",
     "zarr3_sharding_indexed",
     "zip",
 ]
